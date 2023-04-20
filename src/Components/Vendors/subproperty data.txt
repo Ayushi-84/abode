@@ -1,0 +1,14 @@
+Rental Unit
+Apartment
+Loft
+Serviced Apartment
+Casa Particular
+Holiday Home
+
+
+A rented place within a multi-unit residential building or complex.
+A place within a multi-unit building or complex owned by the residents.
+An open-plan flat or apartment which may have short interior walls.
+An apartment with hotel-like amenities serviced by a professional management company.
+A private room in a Cuban home that feels like a bed and breakfast.
+A finished rental property that includes a kitchen and bathroom and may offer some guest services such as a reception desk.
